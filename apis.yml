@@ -28,11 +28,10 @@ created: '2024-12-03'
 modified: '2026-03-16'
 position: Consuming
 description: >-
-  For most people, policy is a tedious and illusive concept, making the idea of
-  understanding and synthesizing tens of thousands of policy requirements a
-  daunting task. But in the midst of the chaos that is the policy world, one DIA
-  officer and a team at the Office of the Undersecretary of Defense for
-  Intelligence &amp; Security saw an opportunity.
+  For most people, policy is a tedious and illusive concept, making the idea of understanding
+  and synthesizing tens of thousands of policy requirements a daunting task. But in
+  the midst of the chaos that is the policy world, one DIA officer and a team at the
+  Office of the Undersecretary of Defense for Intelligence & Security saw an opportunity.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
