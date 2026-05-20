@@ -77,6 +77,10 @@ apis:
       - type: Documentation
         url: https://www.dia.mil/News-Features/Articles/Article-View/Article/2926343/gamechanger
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Defense-Intelligence-Agency
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/defense-intelligence-agency
   - type: Website
     url: https://www.dia.mil
   - type: Careers
