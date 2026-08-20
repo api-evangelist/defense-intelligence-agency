@@ -33,6 +33,14 @@ tags:
   - Defense
   - Department of Defense
   - DIA
+  - Federal-Government
+  - Intelligence
+  - Military Intelligence
+  - National Security
+tags_raw:
+  - Defense
+  - Department of Defense
+  - DIA
   - Federal Government
   - Intelligence
   - Military Intelligence
@@ -49,6 +57,10 @@ apis:
       DIA but does not expose a general-purpose developer API.
     humanURL: https://www.dia.mil
     tags:
+      - Federal-Government
+      - Intelligence
+      - Website
+    tags_raw:
       - Federal Government
       - Intelligence
       - Website
