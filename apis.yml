@@ -44,7 +44,7 @@ tags:
   - Defense
   - Department of Defense
   - DIA
-  - Federal-Government
+  - Federal Government
   - Intelligence
   - Military Intelligence
   - National Security
@@ -56,6 +56,7 @@ tags_raw:
   - Intelligence
   - Military Intelligence
   - National Security
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 apis:
@@ -68,13 +69,14 @@ apis:
       DIA but does not expose a general-purpose developer API.
     humanURL: https://www.dia.mil
     tags:
-      - Federal-Government
+      - Federal Government
       - Intelligence
       - Websites
     tags_raw:
       - Federal Government
       - Intelligence
       - Website
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.dia.mil
