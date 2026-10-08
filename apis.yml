@@ -114,6 +114,12 @@ apis:
       - type: Documentation
         url: https://www.dia.mil/News-Features/Articles/Article-View/Article/2926343/gamechanger
 common:
+  - type: Plans
+    url: plans/defense-intelligence-agency-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/defense-intelligence-agency-rate-limits.yml
+  - type: FinOps
+    url: finops/defense-intelligence-agency-finops.yml
   - type: DomainSecurity
     url: security/defense-intelligence-agency-domain-security.yml
   - type: GitHubOrganization
