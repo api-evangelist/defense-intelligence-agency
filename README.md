@@ -1,4 +1,4 @@
-# Defense Intelligence Agency (defense-intelligence-agency)
+# Defense Intelligence Agency
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,53 +66,103 @@
 
 The Defense Intelligence Agency (DIA) is the U.S. Department of Defense combat support agency that produces, analyzes, and disseminates military intelligence on foreign militaries and operating environments to support warfighters, defense planners, and national-security policymakers. As an intelligence agency, DIA does not publish a general-purpose public API; its developer-facing surface is largely internal or restricted to the Intelligence Community. Public touchpoints include the GAMECHANGER policy analytics initiative, the DIA FOIA reading room, public news and article feeds, and procurement and recruiting portals.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-intelligence-agency/refs/heads/main/apis.yml)
+**Areas:** Defense · Department of Defense · DIA · Federal Government · Intelligence · Military Intelligence · National Security
 
-## Scope
+## Defense Intelligence Agency on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Defense Intelligence Agency is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-intelligence-agency/](https://apis.io/providers/defense-intelligence-agency/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (3)
 
-- Defense, Department of Defense, DIA, Federal Government, Intelligence, Military Intelligence, National Security
+- [Defense Intelligence Agency Website](https://apis.io/apis/defense-intelligence-agency/defense-intelligence-agency-website/) — Public-facing presence of the Defense Intelligence Agency, providing organizational information, leadership, careers, news, and links to mission-specific…
+- [Defense Intelligence Agency FOIA Reading Room](https://apis.io/apis/defense-intelligence-agency/defense-intelligence-agency-foia/) — Online portal that publishes records released under the Freedom of Information Act, including frequently requested documents and declassified materials.…
+- [Defense Intelligence Agency GAMECHANGER](https://apis.io/apis/defense-intelligence-agency/defense-intelligence-agency-gamechanger/) — A policy analytics platform led by DIA in partnership with the Office of the Undersecretary of Defense for Intelligence and Security that ingests,…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Defense Intelligence Agency Website
+Authentication, trust centre, and vulnerability disclosure.
 
-Public-facing presence of the Defense Intelligence Agency, providing organizational information, leadership, careers, news, and links to mission-specific programs. The website is the primary public surface for DIA but does not expose a general-purpose developer API.
+- [Defense Intelligence Agency Domain Security](https://apis.io/security/defense-intelligence-agency/defense-intelligence-agency-domain-security/)
 
-- **Human URL:** https://www.dia.mil
+#### Plans and pricing (1)
 
-### Defense Intelligence Agency FOIA Reading Room
+Published plans, tiers and prices.
 
-Online portal that publishes records released under the Freedom of Information Act, including frequently requested documents and declassified materials. Researchers can browse and download released records but there is no documented public API.
+- [Defense Intelligence Agency Plans Pricing](https://apis.io/plans/defense-intelligence-agency/defense-intelligence-agency-plans-pricing/)
 
-- **Human URL:** https://www.dia.mil/FOIA
+#### Rate limits (1)
 
-### Defense Intelligence Agency GAMECHANGER
+Published request limits.
 
-A policy analytics platform led by DIA in partnership with the Office of the Undersecretary of Defense for Intelligence and Security that ingests, normalizes, and searches tens of thousands of DoD policy documents. GAMECHANGER is referenced in DIA public articles but does not publish a public developer API.
+- [Defense Intelligence Agency Rate Limits](https://apis.io/rate-limits/defense-intelligence-agency/defense-intelligence-agency-rate-limits/)
 
-- **Human URL:** https://www.dia.mil/News-Features/Articles/Article-View/Article/2926343/gamechanger
+#### FinOps (1)
 
-## Common Properties
+What the API costs to run, by operation.
+
+- [Defense Intelligence Agency Finops](https://apis.io/finops/defense-intelligence-agency/defense-intelligence-agency-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dia.mil)
-- [Careers](https://www.dia.mil/Careers)
-- [News](https://www.dia.mil/News)
-- [FOIA](https://www.dia.mil/FOIA)
-- [Contact Us](https://www.dia.mil/Contact)
-- [Privacy Policy](https://www.dia.mil/Privacy)
+- [Privacy policy](https://www.dia.mil/Privacy)
+- [GitHub](https://github.com/Defense-Intelligence-Agency)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 12.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/defense-intelligence-agency/](https://apis.io/providers/defense-intelligence-agency/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Defense Intelligence Agency: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-intelligence-agency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
